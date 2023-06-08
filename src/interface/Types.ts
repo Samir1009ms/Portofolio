@@ -22,3 +22,7 @@ export interface IExperience {
     contents: string,
     skils?: string[]
 }
+export interface ISkills {
+    header: string,
+    text: string
+}
