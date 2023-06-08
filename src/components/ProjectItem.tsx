@@ -16,7 +16,7 @@ export default function ProjectItem({ project }: { project: IProject }) {
             <Box sx={{ border: "1px solid #ff8303", padding: "16px" }}>
                 <Typography variant='h5' gutterBottom color='#F0E3CA'>
                     {project.title}
-                    {project.status && <Chip label={project.status} sx={{ background: "#ff8303" }} color='success'></Chip>}
+                    {project.status && <Chip label={project.status} sx={{ background: "#ff8303", marginLeft: '8px' }} color='success'></Chip>}
                 </Typography>
                 <Typography gutterBottom variant='subtitle2' color="#F0E3CA">{project.contents}</Typography>
                 <Box sx={{ display: "flex", gap: "10px", marginBottom: "5px", flexWrap: "wrap" }}>

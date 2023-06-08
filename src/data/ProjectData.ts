@@ -115,6 +115,7 @@ export const projects: IProject[] = [
         header: 'Node.js Express.js MongoDB JWT Socket.io',
         title: 'Bank Managment Back End',
         contents: ' Bank Managment Api,login register',
+        status: 'Not Deployed',
         buttons: [
             {
                 name: 'github',
@@ -126,7 +127,7 @@ export const projects: IProject[] = [
                 name: 'live',
                 link: '',
                 status: false,
-                disabled: false
+                disabled: true
             }
 
         ]
@@ -134,6 +135,7 @@ export const projects: IProject[] = [
         header: 'Node.js Express.js MongoDB JWT Socket.io',
         title: 'eCommerce back-ends',
         contents: 'eCommerce back-end Api,login register',
+        status: 'Not Deployed',
         buttons: [
             {
                 name: 'github',
@@ -145,7 +147,7 @@ export const projects: IProject[] = [
                 name: 'live',
                 link: '',
                 status: false,
-                disabled: false
+                disabled: true
             }
 
         ]
