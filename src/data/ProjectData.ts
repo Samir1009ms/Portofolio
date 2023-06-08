@@ -125,7 +125,7 @@ export const projects: IProject[] = [
             {
                 name: 'live',
                 link: '',
-                status: true,
+                status: false,
                 disabled: false
             }
 
@@ -144,7 +144,7 @@ export const projects: IProject[] = [
             {
                 name: 'live',
                 link: '',
-                status: true,
+                status: false,
                 disabled: false
             }
 
