@@ -4,7 +4,7 @@ import eCommerce from '../assets/images/eCommercepng.png'
 import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [{
-    time: "20 February 2023 - Now",
+    time: "20 February 2023 - 24 June 2023",
     header: "Mentor",
     contents: "Front end developer Mentor in Coders Azerbaijan",
     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
@@ -13,7 +13,13 @@ export const experiences: IExperience[] = [{
 
 export const educations: IExperience[] = [
     {
-        time: "2022 - 2023",
+        time: "21 June 2023 - Now",
+        header: "Coders Azerbaijan",
+        contents: "Advanced Front-end Developer Bootcamp",
+        skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI"]
+    },
+    {
+        time: "25 October 2022 - 25 February 2023",
         header: "Coders Azerbaijan",
         contents: "Front-end Developer Bootcamp",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]

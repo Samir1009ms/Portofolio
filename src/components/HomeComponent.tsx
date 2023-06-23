@@ -4,6 +4,7 @@ import Typewriter from 'typewriter-effect'
 import { useNavigate } from 'react-router-dom'
 import { PATH } from '../constants/paths'
 import code from '../assets/images/Illustrations.png'
+import img from '../assets/images/IMG.png'
 export default function HomeComponent() {
     const [cursor, setCursor] = useState("")
     const [active, setActive] = useState(false)
@@ -55,6 +56,7 @@ export default function HomeComponent() {
             </Grid>
             <Grid xs={12} md={6} item>
                 <img src={code} width='100%' alt="logo" />
+                {/* <img src={img} width='100%' alt="logo" /> */}
             </Grid>
         </Grid>
     )
