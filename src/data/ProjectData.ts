@@ -12,12 +12,12 @@ export const experiences: IExperience[] = [{
 }]
 
 export const educations: IExperience[] = [
-    {
-        time: "21 June 2023 - Now",
-        header: "Coders Azerbaijan",
-        contents: "Advanced Front-end Developer Bootcamp",
-        skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI"]
-    },
+    // {
+    //     time: "21 June 2023 - Now",
+    //     header: "Coders Azerbaijan",
+    //     contents: "Advanced Front-end Developer Bootcamp",
+    //     skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI"]
+    // },
     {
         time: "25 October 2022 - 25 February 2023",
         header: "Coders Azerbaijan",
