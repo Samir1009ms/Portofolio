@@ -1,9 +1,10 @@
 import { Box, Button, Chip, Typography } from '@mui/material'
-import React from 'react'
 import { IProject } from '../interface/Types'
 import { Link } from 'react-router-dom'
 
 export default function ProjectItem({ project }: { project: IProject }) {
+
+
     return (
         <Box data-aos="zoom-in-right" component='div' sx={{ cursor: "pointer", margin: 0 }}>
             {
