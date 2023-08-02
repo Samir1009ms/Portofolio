@@ -36,7 +36,7 @@ export const projects: IProject[] = [
         header: 'React Redux-toolkit MaterialUI PrimeReact Node.js MongoDB ',
         title: 'Bank Management',
         contents: 'Coders Azerbaijan Final project',
-        status: 'On Going',
+        // status: 'On Going',
         image: bankManagment,
         buttons: [
             {
