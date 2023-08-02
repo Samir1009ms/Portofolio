@@ -16,7 +16,7 @@ export const educations: IExperience[] = [
         time: "21 June 2023 - Now",
         header: "Coders Azerbaijan",
         contents: "Advanced Front-end Developer Bootcamp",
-        skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI"]
+        skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI", "Next js", "Prizma", "Supabase"]
     },
     {
         time: "25 October 2022 - 25 February 2023",
