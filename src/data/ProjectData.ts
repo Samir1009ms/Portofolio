@@ -3,13 +3,20 @@ import bankManagment from '../assets/images/bankManagement.png'
 import eCommerce from '../assets/images/eCommercepng.png'
 import movieApp from '../assets/images/movieApp.png'
 
-export const experiences: IExperience[] = [{
-    time: "20 February 2023 - 24 June 2023",
-    header: "Mentor",
-    contents: "Front end developer Mentor in Coders Azerbaijan",
-    skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
-
-}]
+export const experiences: IExperience[] = [
+    {
+        time: "20 February 2023 - 24 June 2023",
+        header: "Mentor",
+        contents: "Front end developer Mentor in Coders Azerbaijan",
+        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
+    },
+    {
+        time: "24 July 2023 - On Going",
+        header: "Angular Developer",
+        contents: "Angular Developer in AzeriMed LLC",
+        skils: ["Angular", "Angular Material", "TypeScript", "Rxjs", "Scss", "PrimeNg", "PrimeFlex", "PrimeIcons", "PrimeTheme", "PrimeTemplate", "NgBootstrap", "NgxBootstrap", "NgxMask", "NgxPagination", "NgxSpinner", "NgxToastr", "jqxGrid"]
+    }
+]
 
 export const educations: IExperience[] = [
     {

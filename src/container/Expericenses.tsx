@@ -7,7 +7,7 @@ export default function Expericenses() {
     return (
         <Box content='section'>
             <PageHeaders title='Experience' symbol='/' />
-            <Grid container>
+            <Grid container spacing={4} flexDirection='column'>
                 {experiences.map((data) => (
                     <Grid key={data.time} item xs={12} md={6}>
                         <Experience data={data} />
