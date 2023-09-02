@@ -11,7 +11,7 @@ export default function Logo() {
                 to={'/'}
                 component={Link}
                 variant='text'
-                sx={{ color: '#fff', fontSize: '18px' }}
+                sx={{ color: '#fff', fontSize: '18px', textTransform: 'capitalize' }}
             >
                 <img style={{ width: '55px', height: '50px' }} src={logo} alt="" />Samir
             </Button>
