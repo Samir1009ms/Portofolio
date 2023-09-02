@@ -54,9 +54,9 @@ export const projects: IProject[] = [
             },
             {
                 name: 'live',
-                link: '',
-                status: false,
-                disabled: true
+                link: 'https://bank-management-system-murex.vercel.app',
+                status: true,
+                disabled: false
             }
 
         ]
