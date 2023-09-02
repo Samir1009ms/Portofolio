@@ -316,7 +316,7 @@ export const skills: ISkills[] = [
     },
     {
         header: 'Other',
-        text: 'HTML5 CSS SCSS Node.js(beginner) Bootstrap Material-Ui RestApi Angular-Material React-Icons PrimeReact PrimeNG Figma'
+        text: 'HTML5 CSS SCSS Node.js - (beginner) Bootstrap Material-Ui RestApi Angular-Material React-Icons PrimeReact PrimeNG Figma'
     },
     {
         header: 'Tools',
@@ -324,11 +324,11 @@ export const skills: ISkills[] = [
     },
     {
         header: 'DataBases',
-        text: 'MongoDB(beginner)'
+        text: 'MongoDB - (beginner)'
     },
     {
         header: 'Frameworks',
-        text: 'React Angular Express.js(beginner)'
+        text: 'React Angular Express.js - (beginner)'
     },
 
 ]

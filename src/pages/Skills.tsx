@@ -5,7 +5,7 @@ import SkillsContainer from '../container/SkillsContainer'
 
 export default function Skills() {
     return (
-        <Box component='section'>
+        <Box component='section' sx={{ padding: '1px' }}>
             <PageHeaders symbol='/' title='Skills' />
             <SkillsContainer />
         </Box>
