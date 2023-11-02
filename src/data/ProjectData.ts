@@ -14,13 +14,13 @@ export const experiences: IExperience[] = [
         time: "24 July 2023 - On Going",
         header: "Angular Developer",
         contents: "Angular Developer in AzeriMed LLC",
-        skils: ["Angular", "Angular Material", "TypeScript", "Rxjs", "Scss", "PrimeNg", "PrimeFlex", "PrimeIcons", "PrimeTheme", "PrimeTemplate", "NgBootstrap", "NgxBootstrap", "NgxMask", "NgxPagination", "NgxSpinner", "NgxToastr", "jqxGrid"]
+        skils: ["Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr", "jqxGrid"]
     }
 ]
 
 export const educations: IExperience[] = [
     {
-        time: "21 June 2023 - Now",
+        time: "21 June 2023 - 12 August 2023",
         header: "Coders Azerbaijan",
         contents: "Advanced Front-end Developer Bootcamp",
         skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI", "Next js", "Prizma", "Supabase"]
@@ -328,7 +328,7 @@ export const skills: ISkills[] = [
     },
     {
         header: 'Frameworks',
-        text: 'React Angular Express.js - (beginner)'
+        text: 'React Angular Vue Next.js Express.js - (beginner)'
     },
 
 ]
