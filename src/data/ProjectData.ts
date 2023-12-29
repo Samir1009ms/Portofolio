@@ -32,7 +32,7 @@ export const educations: IExperience[] = [
         skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI", "Next js", "Prizma", "Supabase"]
     },
     {
-        time: "08 June 2021 - 08 October 2021",
+        time: "08 June 2020 - 08 October 2020",
         header: "Coders Azerbaijan",
         contents: "Front-end Developer Bootcamp",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
