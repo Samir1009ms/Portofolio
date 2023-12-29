@@ -5,10 +5,16 @@ import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [
     {
-        time: "20 February 2023 - 24 June 2023",
-        header: "Mentor",
-        contents: "Front end developer Mentor in Coders Azerbaijan",
+        time: "12 January 2021 - 20 December 2023",
+        header: "FreeLancer",
+        contents: "Front end developer FreeLancer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
+    },
+    {
+        time: "13 February 2022 - 20 October 2022",
+        header: "StartUp",
+        contents: "Front end developer Remote in Insightify",
+        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     },
     {
         time: "24 July 2023 - On Going",
@@ -26,7 +32,7 @@ export const educations: IExperience[] = [
         skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI", "Next js", "Prizma", "Supabase"]
     },
     {
-        time: "25 October 2022 - 25 February 2023",
+        time: "08 June 2021 - 08 October 2021",
         header: "Coders Azerbaijan",
         contents: "Front-end Developer Bootcamp",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
@@ -42,7 +48,7 @@ export const projects: IProject[] = [
     {
         header: 'React Redux-toolkit MaterialUI PrimeReact Node.js MongoDB ',
         title: 'Bank Management',
-        contents: 'Coders Azerbaijan Final project',
+        contents: 'BAK Management App , React Redux-toolki',
         // status: 'On Going',
         image: bankManagment,
         buttons: [
