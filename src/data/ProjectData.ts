@@ -6,7 +6,7 @@ import movieApp from '../assets/images/movieApp.png'
 export const experiences: IExperience[] = [
     {
         time: "12 January 2021 - 20 December 2023",
-        header: "FreeLancer",
+        header: "Front end developer",
         contents: "Front end developer FreeLancer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
     },
