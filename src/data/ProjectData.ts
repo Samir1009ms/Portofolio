@@ -5,9 +5,9 @@ import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [
     {
-        time: "24 February 2023 - 10 December 2023",
-        header: "Front End Developer",
-        contents: "Front end developer  in Coders Azerbaijan",
+        time: "12 January 2021 - 20 December 2023",
+        header: "FreeLancer",
+        contents: "Front end developer FreeLancer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
     },
     {
@@ -48,7 +48,7 @@ export const projects: IProject[] = [
     {
         header: 'React Redux-toolkit MaterialUI PrimeReact Node.js MongoDB ',
         title: 'Bank Management',
-        contents: 'Bank Management App , React Redux-toolki',
+        contents: 'BAK Management App , React Redux-toolki',
         // status: 'On Going',
         image: bankManagment,
         buttons: [
