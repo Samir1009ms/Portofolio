@@ -5,17 +5,23 @@ import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [
     {
-        time: "12 January 2021 - 20 December 2023",
+        time: "24 February 2023 - 10 December 2023",
         header: "Front end developer",
-        contents: "Front end developer FreeLancer in Coders Azerbaijan",
+        contents: "Front end developer  in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
     },
-    {
-        time: "13 February 2022 - 20 October 2022",
-        header: "StartUp",
-        contents: "Front end developer Remote in Insightify",
-        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
-    },
+    // {
+    //     time: "12 January 2021 - 20 December 2023",
+    //     header: "Front end developer",
+    //     contents: "Front end developer FreeLancer in Coders Azerbaijan",
+    //     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
+    // },
+    // {
+    //     time: "13 February 2022 - 20 October 2022",
+    //     header: "StartUp",
+    //     contents: "Front end developer Remote in Insightify",
+    //     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
+    // },
     {
         time: "24 July 2023 - On Going",
         header: "Angular Developer",
