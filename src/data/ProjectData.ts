@@ -23,6 +23,12 @@ export const experiences: IExperience[] = [
     //     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     // },
     {
+        time: "13 January 2023 - 20 October 2023",
+        header: "Freelancer",
+        contents: "Front end developer Remote in Insightify",
+        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
+    },
+    {
         time: "24 July 2023 - On Going",
         header: "Angular Developer",
         contents: "Angular Developer in AzeriMed LLC",
