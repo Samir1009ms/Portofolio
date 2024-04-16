@@ -33,7 +33,13 @@ export const experiences: IExperience[] = [
         header: "Angular Developer",
         contents: "Angular Developer in AzeriMed LLC",
         skils: ["Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr", "jqxGrid"]
-    }
+    },
+    {
+        time: "10 March 2024 - On Going",
+        header: "Freelancer | Support",
+        contents: "Front end developer in Coders Azerbaijan",
+        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux Toolkit", "Material UI", "Next js", "Tailwind CSS", "React Query RTK", "Micro Frontends Architecture"]
+    },
 ]
 
 export const educations: IExperience[] = [
