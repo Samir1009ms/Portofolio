@@ -7,7 +7,7 @@ export const experiences: IExperience[] = [
     {
         time: "24 February 2023 - 10 December 2023",
         header: "Front end developer",
-        contents: "Front end developer  in Coders Azerbaijan",
+        contents: "Front end developer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
     },
     // {
