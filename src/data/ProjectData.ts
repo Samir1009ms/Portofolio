@@ -30,9 +30,9 @@ export const experiences: IExperience[] = [
     },
     {
         time: "24 July 2023 - On Going",
-        header: "Angular Developer",
-        contents: "Angular Developer in AzeriMed LLC",
-        skils: ["Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr", "jqxGrid"]
+        header: "Middle Front End Developer",
+        contents: "Middle Front End Developer in AzeriMed LLC",
+        skils: ["Next.js", "React.js", "Redux-toolkit", "Material UI", "RTK Query", "Tailwind CSS", "Bootstrap", "Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "jqxGrid"]
     },
     {
         time: "10 March 2024 - On Going",
