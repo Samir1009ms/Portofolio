@@ -5,7 +5,7 @@ import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [
     {
-        time: "24 February 2023 - 10 December 2023",
+        time: "February 2022 - December 2023",
         header: "Front end developer",
         contents: "Front end developer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux", "Redux Toolkit"]
@@ -23,19 +23,19 @@ export const experiences: IExperience[] = [
     //     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     // },
     {
-        time: "13 January 2023 - 20 October 2023",
+        time: "January 2023 - October 2023",
         header: "Freelancer",
         contents: "Front end developer Remote in Insightify",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     },
     {
-        time: "24 July 2023 - On Going",
+        time: "July 2023 - On Going",
         header: "Middle Front End Developer",
         contents: "Middle Front End Developer in AzeriMed LLC",
         skils: ["Next.js", "React.js", "Redux-toolkit", "Material UI", "RTK Query", "Tailwind CSS", "Bootstrap", "Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "jqxGrid"]
     },
     {
-        time: "10 March 2024 - On Going",
+        time: "March 2024 - On Going",
         header: "Freelancer | Support",
         contents: "Front end developer in Coders Azerbaijan",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux Toolkit", "Material UI", "Next js", "Tailwind CSS", "React Query RTK", "Micro Frontends Architecture"]
