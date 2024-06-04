@@ -35,7 +35,7 @@ export const experiences: IExperience[] = [
     //     skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     // },
     {
-        time: "January 2023 - October 2023",
+        time: "January 2022 - October 2023",
         header: "Freelancer",
         contents: "Front end developer Remote in Insightify",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
