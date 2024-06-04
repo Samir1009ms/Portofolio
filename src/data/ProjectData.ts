@@ -5,6 +5,18 @@ import movieApp from '../assets/images/movieApp.png'
 
 export const experiences: IExperience[] = [
     {
+        time: "July 2023 - On Going",
+        header: "Middle Front End Developer",
+        contents: "Middle Front End Developer in AzeriMed LLC",
+        skils: ["Next.js", "React.js", "Redux-toolkit", "Material UI", "RTK Query", "Tailwind CSS", "Bootstrap", "Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "jqxGrid"]
+    },
+    {
+        time: "March 2024 - On Going",
+        header: "Freelancer | Support",
+        contents: "Front end developer in Coders Azerbaijan",
+        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux Toolkit", "Material UI", "Next js", "Tailwind CSS", "React Query RTK", "Micro Frontends Architecture"]
+    },
+    {
         time: "February 2022 - December 2023",
         header: "Front end developer",
         contents: "Front end developer in Coders Azerbaijan",
@@ -28,18 +40,7 @@ export const experiences: IExperience[] = [
         contents: "Front end developer Remote in Insightify",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     },
-    {
-        time: "July 2023 - On Going",
-        header: "Middle Front End Developer",
-        contents: "Middle Front End Developer in AzeriMed LLC",
-        skils: ["Next.js", "React.js", "Redux-toolkit", "Material UI", "RTK Query", "Tailwind CSS", "Bootstrap", "Angular", "Angular Material", "TypeScript", "Rxjs", "NgRx", "Firabase", "Scss", "PrimeNg", "jqxGrid"]
-    },
-    {
-        time: "March 2024 - On Going",
-        header: "Freelancer | Support",
-        contents: "Front end developer in Coders Azerbaijan",
-        skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "React", "Redux Toolkit", "Material UI", "Next js", "Tailwind CSS", "React Query RTK", "Micro Frontends Architecture"]
-    },
+
 ]
 
 export const educations: IExperience[] = [
