@@ -36,7 +36,7 @@ export const experiences: IExperience[] = [
     // },
     {
         time: "January 2022 - October 2023",
-        header: "Freelancer",
+        header: "Remote",
         contents: "Front end developer Remote in Insightify",
         skils: ["HTML5", "CSS", "SCSS", "Bootstrap", "Angular", "Rxjs", "NgRx", "AntDesign", "Angular Material", "Firabase", "NgBootstrap", "NgxBootstrap", "NgxSpinner", "NgxToastr"]
     },
@@ -45,7 +45,7 @@ export const experiences: IExperience[] = [
 
 export const educations: IExperience[] = [
     {
-        time: "21 June 2023 - 12 August 2023",
+        time: "May  2023 - August 2023",
         header: "Coders Azerbaijan",
         contents: "Advanced Front-end Developer Bootcamp",
         skils: ["React with TypeScript", "Jest", "React testing library", "React Query RTK", "Micro Frontends Architecture", "Material UI", "Next js", "Prizma", "Supabase"]
